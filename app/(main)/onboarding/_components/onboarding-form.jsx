@@ -1,7 +1,7 @@
 "use client";
 import { useForm } from "react-hook-form";
 import { zodResolver } from "@hookform/resolvers/zod";
-import { onboardingSchema } from "@/app/lib/scheme";
+import { onboardingSchema } from "@/app/lib/schema";
 import { useRouter } from "next/navigation";
 import { useState } from "react";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
