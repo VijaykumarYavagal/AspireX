@@ -55,7 +55,7 @@
     "autoprefixer": "^10.4.21",
     "eslint": "^9",
     "eslint-config-next": "15.2.3",
-    "inngest": "^3.34.4",
+    "inngest": "^3.54.0",
     "postcss": "^8.5.3",
     "prisma": "^6.5.0",
     "tailwindcss": "^4.0.17"
